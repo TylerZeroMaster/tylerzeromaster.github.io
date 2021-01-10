@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["softdev"],{"3a4c":function(e,n,t){"use strict";t.r(n);var c=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("router-view")],1)},u=[],i=(t("de55"),t("2877")),o={},r=Object(i["a"])(o,c,u,!1,null,null,null);n["default"]=r.exports},de55:function(e,n,t){"use strict";t("ec73")},ec73:function(e,n,t){}}]);
+//# sourceMappingURL=softdev.ec36454f.js.map
